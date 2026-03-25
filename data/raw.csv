@@ -1,0 +1,107 @@
+customer_id,name,email,subscription,price,start_date
+1,John Doe,john@example.com,pro,100,2024-01-01
+2,,jane@example,free,,2024/02/01
+3,Mike Ross,mike@example.com,pro,abc,01-03-2024
+3,Mike Ross,mike@example.com,pro,100,2024-03-01
+4,Anna,anna@example.com,,200,
+5,Robert Baratheon,rob_at_kingslanding.com,basic,50.00,2024-04-12
+6,Cersei Lannister,cersei@casterly,pro,150.00,04/15/2024
+7,,no-reply@system.com,free,0,2024-05-01
+8,Jon Snow,jon.snow@wall.gov,,free,2024/05/10
+8,Jon Snow,jon.snow@wall.gov,basic,50,05-10-2024
+9,Arya Stark,arya@braavos.net,pro,-100,2024-06-01
+10,Sansa Stark,sansa.stark@winterfell.com,pro,100.0,
+11,Bran Stark,bran@.com,free,0.00,2024-07-04
+12,,khal.drogo@dothraki.org,basic,fifty,2024/08/01
+13,Tyrion Lannister,,pro,150.50,08-15-2024
+14,Jorah Mormont,jorah@bearisland.com,basic,,2024-09-01
+15,Theon Greyjoy,theon@pyke.,free,0,09/10/2024
+16,Samwell Tarly,sam@citadel.edu,pro,100,2024-10-01
+16,Samwell Tarly,sam@citadel.edu,pro,100,2024-10-01
+17,Davos Seaworth,davos@smuggler.com,,150,11-01-2024
+18,Brienne of Tarth,brienne@tarth.com,pro,100.00,2024/11/15
+19,Melisandre,melisandre@asshai.net,basic,50.0,
+20,,ramsay@bolton.com,pro,200.00,2024-12-01
+21,Margaery Tyrell,margaery@highgarden.com,free,zero,12/10/2024
+22,Olenna Tyrell,olenna@.org,pro,150,2025-01-01
+23,Varys,varys@whispers.net,,100,01-15-2025
+24,Petyr Baelish,,pro,-50.00,2025/02/01
+25,Sandor Clegane,hound@kingslanding.com,basic,50,2025-02-14
+26,Gregor Clegane,mountain@kingslanding.com,basic,50,2025-02-14
+27,Joffrey Baratheon,joffrey@kingslanding.com,pro,hundred,
+28,,tommen@kingslanding.com,free,,2025-03-01
+29,Myrcella Baratheon,myrcella@dorne.com,pro,150,03/15/2025
+30,Stannis Baratheon,stannis@dragonstone.com,basic,-10.00,2025-04-01
+30,Stannis Baratheon,stannis@dragonstone.com,basic,50.00,04-01-2025
+31,Renly Baratheon,renly@stormsend.com,,100,2025/05/01
+32,Tywin Lannister,tywin@casterlyrock.com,pro,250.00,
+33,Jaime Lannister,jaime@kingsguard.com,basic,50,2025-06-01
+34,Gendry,,free,0,06/15/2025
+35,,tormund@beyondthewall.com,pro,100,2025-07-01
+36,Ygritte,ygritte@freefolk.com,basic,fifty bucks,07-15-2025
+37,Gilly,gilly@craster.com,free,,2025/08/01
+38,Roose Bolton,roose@dreadfort.com,pro,150.00,2025-09-01
+39,Walder Frey,walder@twins.com,pro,150.00,2025-09-01
+40,Missandei,missandei@naath.com,,100,09/15/2025
+41,Grey Worm,greyworm@unsullied.com,basic,50,
+42,Daario Naharis,daario@second-sons.com,pro,150,2025-10-01
+43,Jaqen H'ghar,jaqen@braavos.net,free,zero,10-15-2025
+44,Syrio Forel,,pro,100,2025/11/01
+45,,barristan@kingsguard.com,basic,-25.00,2025-11-15
+46,Beric Dondarrion,beric@brotherhood.com,pro,150,12/01/2025
+47,Thoros of Myr,thoros@brotherhood.com,basic,,2025/12/15
+48,The High Sparrow,sparrow@faith.org,free,0.0,2026-01-01
+49,Loras Tyrell,loras@highgarden.com,pro,200.00,01-15-2026
+50,,meryn.trant@kingsguard.com,basic,50,2026/02/01
+51,Qyburn,qyburn@citadel.dropout,,150,2026-03-01
+52,Mance Rayder,mance@freefolk.org,pro,100,
+53,Aemon Targaryen,aemon@nightswatch.gov,free,0,04/15/2026
+54,Jeor Mormont,jeor@nightswatch.gov,pro,150.00,2026-05-01
+54,Jeor Mormont,jeor@nightswatch.gov,pro,150.00,2026-05-01
+55,Eddison Tollett,edd@nightswatch.gov,basic,50,05-15-2026
+56,Grenn,grenn@nightswatch.gov,basic,50,2026/06/01
+57,,pyp@nightswatch.gov,free,0,2026-07-01
+58,Alliser Thorne,alliser@nightswatch.gov,pro,100,07/15/2026
+59,Othell Yarwyck,othell@nightswatch.gov,,50,2026-08-01
+60,Bowen Marsh,bowen@nightswatch.gov,pro,-10,2026/09/01
+61,Craster,craster@keep.com,free,,10-01-2026
+62,Karl Tanner,karl@gin-alley.com,basic,50,
+63,Rast,rast@nightswatch.gov,basic,50,2026-11-01
+64,Benjen Stark,benjen@rangers.gov,pro,150.00,11/15/2026
+65,Waymar Royce,waymar@rangers.gov,pro,one hundred,2026-12-01
+66,Will,,free,0,12-15-2026
+67,Gared,gared@rangers.gov,basic,50.00,2027/01/01
+68,Qhorin Halfhand,qhorin@rangers.gov,pro,200,2027-02-01
+69,Lyanna Mormont,lyanna@bearisland.com,,150,02/15/2027
+70,,karsi@hardhome.org,free,0,2027-03-01
+71,Loboda,loboda@thenns.com,basic,-50,2027/04/01
+72,Styr,styr@thenns.com,basic,50,04-15-2027
+73,Mag the Mighty,mag@giants.com,pro,500.00,2027-05-01
+74,Wun Wun,wunwun@giants.com,pro,500.00,
+75,Leaf,leaf@children.org,free,,2027-06-15
+76,Bloodraven,brynden@tree.net,pro,100,2027/07/01
+77,,nk@whitewalkers.gov,pro,1000,07-15-2027
+78,Viserys Targaryen,viserys@dragon.com,basic,free,2027-08-01
+79,Illyrio Mopatis,illyrio@pentos.com,pro,500,2027/09/01
+80,Hizdahr zo Loraq,hizdahr@meereen.com,,200,
+81,Yezzan zo Qaggaz,yezzan@yunkai.com,pro,300,2027-10-15
+82,Kraznys mo Nakloz,kraznys@astapor.com,basic,50.50,11/01/2027
+83,Prendahl na Ghezn,prendahl@stormcrows.com,pro,150,2027-11-15
+84,Salladhor Saan,salladhor@pirates.net,pro,two hundred,12-01-2027
+84,Salladhor Saan,salladhor@pirates.net,pro,200,2027-12-01
+85,Matthos Seaworth,matthos@smuggler.com,free,0,2028/01/01
+86,,shae@kingslanding.com,basic,50,2028-02-01
+87,Ros,ros@winterfell.com,basic,50,02/15/2028
+88,Podrick Payne,pod@kingsguard.com,,100,2028-03-01
+89,Bronn,bronn@blackwater.com,pro,-500,03-15-2028
+90,Ilyn Payne,ilyn@justice.gov,basic,50,2028/04/01
+91,Lancel Lannister,lancel@sparrows.org,free,,
+92,Kevan Lannister,kevan@casterly.com,pro,200,2028-05-15
+93,,doran@sunspear.com,pro,150.00,06/01/2028
+94,Trystane Martell,trystane@sunspear.com,basic,50,2028-06-15
+95,Oberyn Martell,oberyn@sunspear.com,pro,250,2028/07/01
+96,Ellaria Sand,ellaria@sunspear.com,,100,07-15-2028
+97,Obara Sand,obara@sunspear.com,basic,50,2028-08-01
+98,Nymeria Sand,nymeria@sunspear.com,pro,-100,
+99,Tyene Sand,tyene@sunspear.com,pro,150.00,2028-09-15
+100,Areo Hotah,areo@guards.gov,free,0,2028/10/01
